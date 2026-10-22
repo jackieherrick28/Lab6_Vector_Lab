@@ -2,7 +2,7 @@
 * Filename: Lab05.c
 * Description: Define the vectorCal.c functions
 * Author: Jackie Herrick
-* Date: 09/29/26
+* Date: 09/29/26 s
 **************************************************************************************************************************************/
 
 #include <stdio.h>
